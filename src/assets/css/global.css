@@ -1,0 +1,11 @@
+:root {
+  --color-off-white: #FFFFF5;
+  --color-off-black: #333333;
+  --color-grey: #e5e5e5;
+}
+
+body {
+  background: var(--color-off-white);
+  color: var(--color-off-black);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
