@@ -14,7 +14,7 @@
 
 <script>
 export default {
-
+  name: 'hero-header',
 }
 </script>
 
@@ -25,7 +25,7 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border-bottom: 1px solid var(--color-grey);
+  /* border-bottom: 1px solid var(--color-grey); */
 
   /* Polka Dot Pattern */
   background-color: var(--color-off-white);
